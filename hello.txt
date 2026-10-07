@@ -1,4 +1,4 @@
-Привет, Git!
+Привет, из conflict-test
 Третья строка.
 Ветка feature/hello
 
