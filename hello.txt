@@ -1,4 +1,5 @@
 Привет из master.
+Привет, из conflict-test
 Третья строка.
 Ветка feature/hello
 
