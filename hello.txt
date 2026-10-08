@@ -2,4 +2,5 @@
 Привет, из conflict-test
 Третья строка.
 Ветка feature/hello
+Изменение для GitHub
 
